@@ -90,9 +90,9 @@ function() { 1 + 1; }
 
 ![](assets/sample.gif "高效gif")
 
-为图片添加超链接：语法稍稍不同<br>
-![img_with_link](assets/sample.gif)
-![img_with_link]:http://www.baidu.com "百度首页"
+为图片添加超链接：语法稍稍不同，其实就是把整个图片作为一个对象放入\[对象]()中<br>
+[![](assets/sample.gif "百度首页")](http://www.baidu.com)
+
 
 <br><br>
 
