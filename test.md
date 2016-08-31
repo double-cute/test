@@ -20,4 +20,4 @@
   弟弟
   
   
-  use `git add` to add
+  use `Git` to add
