@@ -38,12 +38,23 @@
 
 <br><br>
 
-
+插入代码片段并高亮显示：
 ```C++
 int main() {
     int a = 5;
-    printf("fuck");
+    printf("hello!");
 }
+```
+```Java
+public class Test {
+    public static void main(String[] args) {
+        System.out.println("hello!");
+    }
+}
+```
+```
+nothing, etc.
+function() { 1 + 1; }
 ```
 
 下面是一段引用：
