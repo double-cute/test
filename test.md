@@ -73,6 +73,7 @@ function() { 1 + 1; }
 <br><br>
 
 ### 链接：
+标准URL：A url http://www.google.com
 外部链接：A page [Baidu](http://www.baidu.com)<br>
 内部链接（连接仓库的中的内部资源）：A page [test.jsp](assets/test.jsp)<br>
 
@@ -116,6 +117,14 @@ function() { 1 + 1; }
 - [ ] Lodon（-和[之间、]和文本第一个字之间必须有空格，后一个位置连续空格被忽略）
 - [x] New York（[]中间如果是**`一个`**空格则表示不选，如果是一个x表示选中）
 - [ ] Beijing
+
+<br><br>
+
+### 引起其它人注意：
+语法：@organization-name/team-name @username<br>
+举例：@fouber hello!
+
+<br><br>
    
 
 ### 引用：
