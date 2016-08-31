@@ -72,6 +72,12 @@ function() { 1 + 1; }
 
 <br><br>
 
+### 链接：
+外部链接：A page [Baidu](http://www.baidu.com)<br>
+内部链接（连接仓库的中的内部资源）：A page [test.jsp](assets/test.jsp)
+
+<br><br>
+
 ### 引用：
 下面是一段引用：
 >人的一生能拍几张珍贵的照片? -- 陈冠希
