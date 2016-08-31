@@ -75,6 +75,7 @@ function() { 1 + 1; }
 ### 链接：
 外部链接：A page [Baidu](http://www.baidu.com)<br>
 内部链接（连接仓库的中的内部资源）：A page [test.jsp](assets/test.jsp)
+issue/pull request链接（可以是内部或是外部）：A issue [issue](fouber/blog/#22)
 
 <br><br>
 
