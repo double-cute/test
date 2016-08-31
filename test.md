@@ -74,10 +74,49 @@ function() { 1 + 1; }
 
 ### 链接：
 外部链接：A page [Baidu](http://www.baidu.com)<br>
-内部链接（连接仓库的中的内部资源）：A page [test.jsp](assets/test.jsp)
-issue/pull request链接（可以是内部或是外部）：A issue [issue](fouber/blog/#22)
+内部链接（连接仓库的中的内部资源）：A page [test.jsp](assets/test.jsp)<br>
 
 <br><br>
+
+### 罗列（可嵌套）：
+编码方式（只能用阿拉伯数字，显示时不同层级会自动采用不同的编号风格）
+
+1. sdlfk（必须在.后加一个空格隔开，否则罗列无效）
+2.      slfke（但如果有连续多个空格则无视）
+  1. sdflke（下一个层级的编号一定要和上一个层级之间相差两个空格才能生效）
+  2. *sld*fkjwef（文字内容可以加特效，但是编号"1."无法加特效）
+    1. fse
+    2. slefij
+   
+符号方式（只能用*，显示时不同层级自动采用不同风格的符号）
+
+* asdlfkje（文本内容必须和*之间隔开一个空格才能生效）
+* seklxew
+  * wlekf
+  * slkfje
+    * lskfjslk
+    * slkfje
+
+混合方式
+
+* slkfej
+* slkfje
+  1. sfeljk
+  2. bvwle
+    * wlekfj
+    * wlek
+      1. fwelk
+      2. flwek
+        1. sek
+        2. soief
+        
+<br><br>
+
+### 复选框：
+- [ ] Lodon
+- [x] New York
+- [ ] Beijing
+   
 
 ### 引用：
 下面是一段引用：
