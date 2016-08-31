@@ -88,7 +88,12 @@ function() { 1 + 1; }
 ### 六、图片：
 * 插入图片的语法和插入链接一样，只不过多了一个!前缀
 
-![](
+![](assets/sample.gif "高效gif")
+
+为图片添加超链接：语法稍稍不同<br>
+![img_with_link](assets/sample.gif)
+![img_with_link]:http://www.baidu.com "百度首页"
+
 <br><br>
 
 ### 七、表格：
